@@ -1,0 +1,42 @@
+#primary{
+	background-color: powderblue;
+	border-radius: 200px 50px; 
+	opacity: 0.95;
+	font-size: 25;
+	padding: 5%;
+	
+
+}
+
+#secondary{
+	background-color: powderblue;
+	border-radius: 150px 50px; 
+	opacity: 0.95;
+	font-size: 25;
+	font-weight: bold;
+	color: red;
+	padding: 5%;
+}
+
+.footer{
+	color: white;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: green;
+	text-align: center;
+}
+
+
+#header{
+	border: 5px solid black;
+	border-radius: 200px 50px; 
+	color: yellow;
+	opacity: 0.95;
+	font-size: 50;
+	background-size: auto;
+	text-align: center;
+	background-color: darkblue;
+}
+

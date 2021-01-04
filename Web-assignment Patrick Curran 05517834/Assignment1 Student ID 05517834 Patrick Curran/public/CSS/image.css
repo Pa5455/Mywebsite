@@ -1,0 +1,35 @@
+.primary_images {       /*machineery images*/
+  width: 250px;
+  float: left;
+  margin: 10px;
+}
+
+.secondary_images{
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.cows_eating {         /*cows eating on index page*/
+  display: block;            
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1%;
+}
+
+.bale_stack {         /*bales on index page*/
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#back_img{                                                /*main background image on each page*/
+  background-image: url("../images/field_hills.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  } 

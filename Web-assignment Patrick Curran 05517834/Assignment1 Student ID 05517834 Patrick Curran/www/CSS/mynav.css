@@ -1,0 +1,18 @@
+ul#menu li{
+	display:inline;
+	padding-right: 1%;
+    padding-left: 1%;
+}
+
+ul#menu a {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+#menu li.act a {
+  background: purple;
+  border: 5px solid black;
+  border-radius: 50%;
+  padding: 0.5em 2em .5em 2em;
+  color: yellow;
+}
